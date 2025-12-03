@@ -18,7 +18,7 @@ I am constantly learning new tools and working on real-world data projects to im
 💡 Quote: "Data is the new oil, but only if you know how to refine it."
 </p>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" />
+<img align="right" height="150" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -31,7 +31,7 @@ I am constantly learning new tools and working on real-world data projects to im
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
 <img width="12"/>
-<img src="https://images.seeklogo.com/logo-png/40/2/power-bi-microsoft-logo-png_seeklogo-400711.png" height="40" alt="powerbi logo"/>
+<img src="https://erp.mgt.ncu.edu.tw/wp-content/uploads/2022/06/Power-BI-Logo.png" height="40" alt="powerbi logo"/>
 <img width="12"/>
 <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" height="40" alt="matplotlib logo"/>
 <img width="12"/>
@@ -59,8 +59,6 @@ I am constantly learning new tools and working on real-world data projects to im
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+
+  <img alt="pacman contribution graph" src="https://miro.medium.com/v2/resize:fit:1400/1*PlyeRxCFLCbP8cL7uuVt5g.gif" >
+
